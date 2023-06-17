@@ -7,5 +7,4 @@ This project aims to design a machine learning model that classifies credit scor
 
 ---------
 
-Link to the Project
-Dataset: https://www.kaggle.com/datasets/parisrohan/credit-score-classification?datasetId=2289007&sortBy=voteCount
+Link to the Project [Dataset](https://www.kaggle.com/datasets/parisrohan/credit-score-classification?datasetId=2289007&sortBy=voteCount)
